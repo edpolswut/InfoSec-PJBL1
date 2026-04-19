@@ -1,0 +1,19 @@
+[ {
+  "id" : "ea651b49-b2c0-4306-8711-bf19b31232fe",
+  "nome" : "Usuario1",
+  "email" : "email1@gmail.com",
+  "role" : "Usuário",
+  "senhaHash" : "$2a$12$oUXEspjO9hOg3tgb64we6uxwAajuSsyYkKdO/HMgT.C5NvdI1n94a"
+}, {
+  "id" : "b086645b-d31e-4e32-bfc3-68f40ed436f8",
+  "nome" : "Usuario2",
+  "email" : "email2@gmail.com",
+  "role" : "Usuário",
+  "senhaHash" : "$2a$12$PbAkI6cD8.enPoRcWHaiQ.1SMpudggxJMz3DI3ygzjEskLK4MO1dK"
+}, {
+  "id" : "8eda4b50-f872-488e-9491-c3119a83e0d2",
+  "nome" : "Usuario3",
+  "email" : "email3@gmail.com",
+  "role" : "Usuário",
+  "senhaHash" : "$2a$12$Go2baK2QVGv8fQcnOq3z0Os1UZxbk5ricxLmwl5vlfeTa5PQ1dfH6"
+} ]
